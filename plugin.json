@@ -12,7 +12,8 @@
       "linux-amd64": "server/dist/plugin-linux-amd64",
       "darwin-amd64": "server/dist/plugin-darwin-amd64",
       "windows-amd64": "server/dist/plugin-windows-amd64.exe"
-    }
+    },
+    "executable": "server/dist/plugin-linux-arm64"
   },
   "settings_schema": {
     "header": "Configure this plugin directly in the config.json file, or using the /autolink command. Learn more [in our documentation](https://github.com/mattermost/mattermost-plugin-autolink/blob/master/README.md).\n\nTo report an issue, make a suggestion or a contribution, [check the plugin repository](https://github.com/mattermost/mattermost-plugin-autolink).",
